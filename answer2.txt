@@ -1,0 +1,5 @@
+1. cd ../../Desktop/Directory1/Directory3
+2. touch hello.sh
+3. mkdir -p ../../../../etc/Directory4 && mv hello.sh ../../../../etc/Directory4
+4. cd .. && rm -r Directory3
+5. cd ../../../../ && rm -r etc
